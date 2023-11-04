@@ -1,18 +1,29 @@
-<h1 style="font-weight: bold; font-size: 3.2rem; text-align: center;">Andrés Rodríguez 🧑‍💻</h1>
-<p style="text-align: center; font-weight: 500">
+# Andrés Rodríguez 🧑‍💻
+## Full Stack Developer
+
 I am a Software Engineer from Colombia. I have over 3 years of experience in Full Stack Development. Innovation and creativity are my main strengths. I dive into new technologies and I am always looking for new challenges to every day love more what I do.
-</p>
-<h2>My current stack:</h2>
-<div style="width: 100%; display: flex; align-items: center; gap: 16px; margin-bottom: 16px; background-color: white;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="TypeScript" width="48px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="48px" />
-    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="48px" />
-    <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="NextJS" width="48px" />
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="ExpressJS" width="48px" />
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" width="48px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="48px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="48px" />
-    <img src="https://aety.io/wp-content/uploads/2016/11/mysql-logo.png" alt="MySQL" width="64px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="128px" />
-</div>
-<p style="text-align: center; font-weight: 400; margin-top: 32px;">If you want to know more about me, you can visit my <a href="https://www.linkedin.com/in/and-rodr/" target="_blank">LinkedIn</a> profile.</p>
+
+About me:
+
+* I am 21 years old.
+* I started learning and developing websites since 2019 before beginning to study Software Engineering in the University.
+* My first freelancer project was for a Mexican Engineering and Architect school.
+* Every day I seek for a new challenge in my career.
+
+### My most used technologies:
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
+[![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+Here are my contact details if you would like to contact me and get my CV 😉:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/and-rodr/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roariasaf@gmail.com)
