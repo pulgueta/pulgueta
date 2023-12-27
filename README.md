@@ -1,7 +1,9 @@
 # Andrés Rodríguez 🧑‍💻
 ## Full Stack Developer
 
-I am a Software Engineer from Colombia. I have over 3 years of experience in Full Stack Development. Innovation and creativity are my main strengths. I dive into new technologies and I am always looking for new challenges to every day love more what I do.
+Software Engineer from Colombia. Over 3 years of experience in Full Stack Development. Innovation and creativity are my main strengths. I dive into new technologies and always looking for new challenges to every day love more what I do.
+
+Check out my [portfolio](https://afrodriguez.tech/)
 
 About me:
 
