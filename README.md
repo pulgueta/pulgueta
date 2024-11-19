@@ -7,7 +7,6 @@ Check out my [portfolio](https://afrodriguez.tech/)
 
 About me:
 
-* I am 21 years old.
 * I started learning and developing websites since 2019 before beginning to study Software Engineering in the University.
 * My first freelancer project was for a Mexican Engineering and Architect school.
 * Every day I seek for a new challenge in my career.
